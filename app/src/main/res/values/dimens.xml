@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--vertical_recycler_item_textSize -->
+    <dimen name="cardBookTitleTextSize">20sp</dimen>
+    <dimen name="cardBookAuthorTextSize">14sp</dimen>
+    <dimen name="cardBookPriceTextSize">20sp</dimen>
+    <dimen name="cardBookRatingTextSize">16sp</dimen>
+    <dimen name="cardBookAmountTextSize">14sp</dimen>
+
+    <!--mainActivity -->
+    <dimen name="titleBestPriceTextSize">18sp</dimen>
+    <dimen name="mainActivity_padding">16dp</dimen>
+
+    <!--cartActivity-->
+    <dimen name="bookTitleTS">25sp</dimen>
+    <dimen name="bookAuthorTS">18sp</dimen>
+    <dimen name="bookPriceTS">16sp</dimen>
+    <dimen name="bookAmountTS">14sp</dimen>
+    <dimen name="bookScoreTS">16sp</dimen>
+    <dimen name="bookPreviewTS">18sp</dimen>
+    <dimen name="bookAlsoLike">14sp</dimen>
+
+</resources>

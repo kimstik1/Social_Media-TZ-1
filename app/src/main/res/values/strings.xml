@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Social_Media-TZ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="book_picture">Book picture</string>
+    <string name="best_seller">Best seller</string>
+    <string name="free_preview">Free preview</string>
+    <string name="you_can_also_like">You can also like</string>
+</resources>
